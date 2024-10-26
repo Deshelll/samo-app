@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Run.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|solutionrelative:Neiro_chat\\Run.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\answers_for_none.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|solutionrelative:Neiro_chat\\answers_for_none.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Bert.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}|Neiro_chat\\Neiro_chat.pyproj|solutionrelative:Neiro_chat\\Bert.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "answers_for_none.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\answers_for_none.py",
+              "RelativeDocumentMoniker": "Neiro_chat\\answers_for_none.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\answers_for_none.py",
+              "RelativeToolTip": "Neiro_chat\\answers_for_none.py",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-26T10:35:02.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Run.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Run.py",
+              "RelativeDocumentMoniker": "Neiro_chat\\Run.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Run.py",
+              "RelativeToolTip": "Neiro_chat\\Run.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-26T07:03:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bert.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Bert.py",
+              "RelativeDocumentMoniker": "Neiro_chat\\Bert.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\hack\\samo-app\\Neiro_chat\\Neiro_chat\\Bert.py",
+              "RelativeToolTip": "Neiro_chat\\Bert.py",
+              "ViewState": "AgIAALQAAAAAAAAAAAAWwNgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-26T07:03:38.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

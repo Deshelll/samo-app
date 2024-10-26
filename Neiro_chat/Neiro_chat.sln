@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Neiro_chat", "Neiro_chat\Neiro_chat.pyproj", "{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931E3E0A-FCA7-4104-BAEF-E3400D6C5F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C9ED90-A69D-4AD2-BA5F-2F482B79A8EA}
+	EndGlobalSection
+EndGlobal
